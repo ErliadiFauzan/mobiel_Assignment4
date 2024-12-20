@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "732668300858",
+    "project_id": "tugaslab-dd2a4",
+    "storage_bucket": "tugaslab-dd2a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732668300858:android:607db43af80953ee79af03",
+        "android_client_info": {
+          "package_name": "com.example.kostku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxhT61Z8CVT1Ri6zG97_yTHHOb9oUmOCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732668300858:android:b24f4d2f672109b779af03",
+        "android_client_info": {
+          "package_name": "com.example.tugaslab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxhT61Z8CVT1Ri6zG97_yTHHOb9oUmOCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

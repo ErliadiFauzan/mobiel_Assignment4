@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9cd92bb4-bc1d-4186-8d48-b42d3245873e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/Home/Deskription/controller/Deskripsi_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/Home/Deskription/controller/dekripsi_controller2.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/Home/Deskription/sub/Chat/controller/chatSet_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/Home/Deskription/sub/Chat/controller/chat_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/Home/Deskription/sub/Review/controller/Review_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/Home/Deskription/sub/Review/controller/chatreview_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/Home/Deskription/view/Deskription_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/Home/View/Home_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/Home/home_controller/home_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/Home/home_controller/home_controller2.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/Register/Controller/Register_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/even/controller/even_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/even/view/even_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/setings/Controller/Setings_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/setings/Controller/profile_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/setings/submenu/Editkamar/controller/edit_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/setings/submenu/Editkamar/subfile/EditKamarEdit/controller/editedit_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/setings/submenu/Editkamar/subfile/Tambahkamar_view/Controller/TambahKamar_Controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/setings/submenu/Editkamar/subfile/Tambahkamar_view/View/TambahKamar_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/setings/submenu/PasswordChange/PasChang_controller/Passchange_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/setings/submenu/ProfilEdit/ProfileEdit_controller/ProfileEdit_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/modules/Home/bindings/Login_binding.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/modules/Home/Login/bindings/Login_binding.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/modules/Home/controllers/Login_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/modules/Home/Login/controllers/Login_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/modules/Home/views/Home/Deskription/Chat/chat_view.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/Home/Deskription/sub/Chat/view/chat_view.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/modules/Home/views/Home/Deskription/Deskription_view.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/modules/Home/views/Home/Deskription/Review/Review_view.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/Home/Deskription/sub/Review/View/Review_view.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/modules/Home/views/Home/Home_view.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/modules/Home/views/Login/Login_view.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/modules/Home/Login/View/Login_view.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/modules/Home/views/Register/Register_view.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/Register/View/Register_view.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/modules/Home/views/setings/Editkamar/EditKamarEdit/EditkamarEdit_view.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/setings/submenu/Editkamar/subfile/EditKamarEdit/view/EditkamarEdit_view.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/modules/Home/views/setings/Editkamar/EditKamar_view.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/setings/submenu/Editkamar/View/EditKamar_view.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/modules/Home/views/setings/Editkamar/Tambahkamar_view/TambahKamar_view.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/modules/Home/views/setings/PasswordChange/Password_Change_view.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/setings/submenu/PasswordChange/PassChange_view/Password_Change_view.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/modules/Home/views/setings/ProfilEdit/ProfileEdit_view.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/setings/submenu/ProfilEdit/View/ProfileEdit_view.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/modules/Home/views/setings/Setings_view.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/modules/Home/views/setings/View/Setings_view.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/routes/app_pages.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/routes/app_pages.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/routes/app_routes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/routes/app_routes.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/windows/flutter/generated_plugins.cmake" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2oW9FJQV0Fi3QPBd9xvnhD8t4XK" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <option name="show-excluded-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Flutter.main.dart.executor": "Debug",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "io.flutter.reload.alreadyRun": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/mapel/S5/mobile/tugas_lab_klmpk/tbprak1",
+    "settings.editor.selected.configurable": "preferences.general",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\mapel\S5\mobile\KLMPOK 2\kostku\android\app\src\main\res\mipmap-hdpi" />
+      <recent name="E:\mapel\S5\mobile\KLMPOK 2\kostku\android\app\src\main\res\mipmap-mdpi" />
+      <recent name="E:\mapel\S5\mobile\KLMPOK 2\kostku\android\app\src\main\res\mipmap-xhdpi" />
+      <recent name="E:\mapel\S5\mobile\KLMPOK 2\kostku\android\app\src\main\res\mipmap-xxhdpi" />
+      <recent name="E:\mapel\S5\mobile\KLMPOK 2\kostku\android\app\src\main\res\mipmap-xxxhdpi" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\mapel\S5\mobile\KLMPOK 2\kostku\lib\app\modules\Home\views\Home\Deskription\sub\Review\View" />
+      <recent name="E:\mapel\S5\mobile\KLMPOK 2\kostku\lib\app\modules\Home\views\Home\Deskription\view" />
+      <recent name="E:\mapel\S5\mobile\KLMPOK 2\kostku\lib\app\modules\Home\views\Home\Deskription" />
+      <recent name="E:\mapel\S5\mobile\KLMPOK 2\kostku\lib\app\modules\Home\views\Home\Deskription\Chat\view" />
+      <recent name="E:\mapel\S5\mobile\KLMPOK 2\kostku\lib\app\modules\Home\views\Home\View" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cd92bb4-bc1d-4186-8d48-b42d3245873e" name="Changes" comment="" />
+      <created>1730974361159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730974361159</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="dart-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
